@@ -1,8 +1,11 @@
 html {
   font-size: 10px;
   background: url('./fire.gif') center;
-  background-size: contain;
 background-repeat: no-repeat;
+   background-size: cover; 
+    height: 100vh;
+    padding:0;
+    margin:0;
 }
 
 body,html {
